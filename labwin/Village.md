@@ -1,6 +1,6 @@
 #Village
 
-[Aller en espace](espace.md)
+[Aller en espace](Espace.md)
 
 Bienvenue dans le village de Joyeuxville, un endroit féerique où les rires et la bonne humeur règnent en maîtres ! 
 Les habitants sont toujours prêts à participer à des fêtes et des jeux extravagants, comme les duel de tartes à la crème géantes. 
