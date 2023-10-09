@@ -4,4 +4,4 @@
 (╯'□')╯︵ ┻━┻            Esseyez une autre fois                (╯'□')╯︵ ┻━┻
 (╯'□')╯︵ ┻━┻(╯'□')╯︵ ┻━┻(╯'□')╯︵ ┻━┻(╯'□')╯︵ ┻━┻(╯'□')╯︵ ┻━┻(╯'□')╯︵ ┻━┻
 
-![GAME OVER](game over.png)
+![GAME OVER](game-over.png)
