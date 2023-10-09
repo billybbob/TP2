@@ -6,6 +6,6 @@ Dans la plaine vous pensez apercevoir des Mammouths.
 [aller au désert](desert.md)
 [aller à la montagne](montagne.md)
 
-![Il s'agit d'une plaine avec de l'eau et des mamouths](plaine.png)
+![Il s'agit d'une plaine avec de l'eau et des mamouths](plaine.jpg)
 
 Auteur : Vincent Bassemayousse
