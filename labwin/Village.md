@@ -7,3 +7,5 @@ Les habitants sont toujours prêts à participer à des fêtes et des jeux extra
 Mais attention, derrière cette apparence joyeuse se cachent aussi de sombres secrets à dévoiler lors de quêtes passionnantes.
 
 ![image du village](village.png)
+
+Auteur : Adel BENK

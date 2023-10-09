@@ -8,3 +8,5 @@ Naviguez sur le dos des dauphins, affrontez de redoutables requins ou détendez-
 
 
 ![image de l'Ocean](ocean.jpg)
+
+Auteur : Adel BENK
